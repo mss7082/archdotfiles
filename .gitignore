@@ -12,3 +12,13 @@ __pycache__/
 
 # C extensions
 *.so
+
+BraveSoftware/
+Ledger Live/
+discord/
+ghc/
+**/cache
+**/database
+nautilus/
+xfce4/
+mime*

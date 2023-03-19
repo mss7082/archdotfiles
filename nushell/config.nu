@@ -527,4 +527,5 @@ let-env config = {
   ]
 }
 let-env PATH = ($env.PATH | prepend '~/.cargo/bin')
+let-env PATH = ($env.PATH | prepend '~/.ghcup/bin')
 alias ll = ls
