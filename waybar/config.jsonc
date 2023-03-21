@@ -56,7 +56,7 @@
     //     "max-length": 10
     // },
     "custom/updates": {
-        "exec": "(yay -Qua) | wc -l",
+        "exec": "(yay -Qu) | wc -l",
         "interval": 7200,
         "format": " {}"
     },

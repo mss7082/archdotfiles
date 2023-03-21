@@ -1,4 +1,6 @@
 **/runtime
+protonmail/
+systemd/
 **/themes
 **/rust-analyzer
 **/tutor
